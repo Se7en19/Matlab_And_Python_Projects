@@ -1,0 +1,28 @@
+# Archivos de MATLAB
+*.m text eol=lf
+*.mat binary
+
+# Archivos de documentación
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+
+# Archivos de licencia
+LICENSE text eol=lf
+
+# Archivos de configuración
+.gitignore text eol=lf
+.gitattributes text eol=lf
+requirements.txt text eol=lf
+
+# Archivos de datos (no se incluirán por .gitignore)
+*.txt binary
+*.csv binary
+*.xlsx binary
+*.xls binary
+*.dat binary
+
+# Archivos de sistema
+*.DS_Store binary
+Thumbs.db binary
+desktop.ini binary
