@@ -1,0 +1,50 @@
+# Datasets y archivos de datos
+*.txt
+*.csv
+*.xlsx
+*.xls
+*.mat
+*.dat
+
+# Archivos temporales de MATLAB
+*.asv
+*.autosave
+*.mex*
+*.fig
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de MATLAB específicos
+slprj/
+*.slxc
+*.slxp
+
+# Archivos de respaldo
+*.bak
+*.tmp
+*~
+
+# Logs y archivos de salida
+*.log
+*.out
+
+# Archivos de configuración local
+config.local.m
+settings.mat
+
+# Archivos de workspace de MATLAB
+workspace.mat
+*.mat
+
+# Archivos de cache
+cache/
+*.cache
+
+# Archivos de resultados generados
+results/
+output/
+plots/
+figures/
